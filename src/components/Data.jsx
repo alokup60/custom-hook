@@ -1,6 +1,5 @@
 import React from "react";
 import useFetch from "../hooks/useFetch";
-import Cards from "./Cards";
 
 const Data = () => {
   const apiUrl = "https://jsonplaceholder.typicode.com/posts/1";
